@@ -3,8 +3,8 @@ title: How to manipulate power states with PowerCLI
 description: Describes how to manipulate power states with PowerCLI
 services: vmware
 author: Sue Highmoor
-reviewer:
-lastreviewed: 26/09/2019
+reviewer: geverett
+lastreviewed: 10/10/2022
 
 toc_rootlink: How To
 toc_sub1:
